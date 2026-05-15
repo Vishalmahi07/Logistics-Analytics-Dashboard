@@ -1,7 +1,9 @@
 # Strategic Logistics Analytics Dashboard 
 
 ## Project Overview
+Here, I have built up the dashboard by taking the Logistic shipment data, Based on the raw data, i have performed the cleaning, transforming, modelling and built the dashboard to present the actually status to the client.
 This project provides an end-to-end analytics solution for a national logistics network. By integrating shipment, hub, and financial data, the dashboard identifies operational bottlenecks and cost-saving opportunities.
+
 
 ## 📊 Key Business Objectives
 * **Improve On-Time Delivery:** Goal of 90% SLA compliance (Current: 81.6%).
